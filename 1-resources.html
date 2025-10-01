@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Resources"
-description: "学习三叶语超级简单"
+description: "学习一辈子，超级简单"
 header-img: "img/post-bg-rwd.jpg"
 ---
 
@@ -102,7 +102,7 @@ header-img: "img/post-bg-rwd.jpg"
 
     // handle render
     function _render(){
-        var _hash = window.location.hash;
+        var _hash = window.__cpLocation.hash;
         // en
         if(_hash == "#en"){
             $select.selectedIndex = 1;
@@ -120,9 +120,9 @@ header-img: "img/post-bg-rwd.jpg"
     // handle select change
     function onLanChange(index){
         if(index == 0){
-            window.location.hash = "#zh"
+            window.__cpLocation.hash = "#zh"
         }else{
-            window.location.hash = "#en"
+            window.__cpLocation.hash = "#en"
         }
     }
 
