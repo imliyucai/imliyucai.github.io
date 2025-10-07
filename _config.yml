@@ -4,7 +4,7 @@ SEOTitle: 无为在歧路 - 让沟通更容易
 header-img: img/post-bg-desk.jpg
 email: yucai@gmail.com
 description: "不是你想的那样"
-keyword: "技术, 语言, 自由, 青年, 少年"
+keyword: "技术, 语言, 思想, 青春, 少年"
 url: "https://imliyucai.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/imliyucai/imliyucai.github.io.git" # you code repository
@@ -101,10 +101,16 @@ friends: [
     {
         title: "elm-chan",
         href: "https://www.elm-chan.org/"
-    },{
+    },
+    {
         title: "fpga4fun",
         href: "https://www.fpga4fun.com/"
-    },{
+    },
+    {
+        title: "romanblack",
+        href: "https://www.romanblack.com/"
+    },
+    {
         title: "爱思想",
         href: "https://www.aisixiang.com/"
     }
