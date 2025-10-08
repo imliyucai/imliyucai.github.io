@@ -1,10 +1,10 @@
 # Site settings
 title: 无为在歧路
-SEOTitle: 无为在歧路 - 让沟通更容易
+SEOTitle: 无为在歧路 - 天涯若比邻
 header-img: img/post-bg-desk.jpg
 email: yucai@gmail.com
 description: "不是你想的那样"
-keyword: "技术, 语言, 思想, 青春, 少年"
+keyword: "思想, 技术, 语言, 青春, 少年"
 url: "https://imliyucai.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/imliyucai/imliyucai.github.io.git" # you code repository
