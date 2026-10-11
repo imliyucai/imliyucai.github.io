@@ -51,7 +51,7 @@ gems: [jekyll-paginate]
 markdown: kramdown
 highlighter: rouge
 kramdown:
-  input: GFM                            # use Github Flavored Markdown !important
+  input: GFM                  # use Github Flavored Markdown !important
 
 
 
@@ -96,7 +96,7 @@ service-worker: true
 
 
 
-# 友情链接，请尽量不要删除，谢谢！
+# 友情链接，他山之石
 friends: [
     {
         title: "elm-chan",
