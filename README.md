@@ -3,10 +3,10 @@
 这个项目是在 [klovien](https://klovien.github.io) 的示范网站基础上修改而来。
 基本上网站架构没有改变，因为我对网站的构成和设计还不甚了了。
 
-他的示范网站展示一种世界语，称为 <font color=yellowgreen>三叶草</font>。不知道是否真有这样一种语言。
+他的示范网站展示一种世界语，称为 <font color=YellowGreen>三叶草</font>。不知道是否真有这样一种语言。
 
 
-下面是 <font color=blue>klovien</font> 原有的声明，保留在此。
+下面是 <font color=Blue>klovien</font> 原有的声明，保留在此。
 
 ### 致谢
 
@@ -16,4 +16,4 @@
 
 ### 许可
 
-遵循 MIT 许可证。有关详细,请参阅 [LICENSE](https://github.com/klovien/klovien.github.io/blob/master/LICENSE)。
+遵循 MIT 许可证。MIT 许可证的详细说明，请参阅 [LICENSE](https://github.com/klovien/klovien.github.io/blob/master/LICENSE)。
